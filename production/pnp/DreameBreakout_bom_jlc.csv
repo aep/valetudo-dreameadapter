@@ -1,0 +1,6 @@
+"Comment","Designator","Footprint","LCSC Part #","LCSC Part #"
+"105133-0011","J2","MOLEX_105133-0011","","C586226"
+"Conn_02x05_Odd_Even","J6","PinHeader_2x05_P2.54mm_Vertical","","C6332208"
+"OTG_USB","J5","ONSHORE_USB-A1VSB6","","C708904"
+"To Robot SoC","J1.1","PinHeader_1x08_P2.00mm_Horizontal","","C2938468"
+"SoC_Boot_SEL_BTN","SW1","SW_TH_Tactile_Omron_B3F-10xx","","C93153"

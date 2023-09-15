@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1.1","To Robot SoC","PinHeader_1x08_P2.00mm_Horizontal",66.0390,-70.3580,-90.0000,top
+"J2","105133-0011","MOLEX_105133-0011",53.2220,-54.9910,90.0000,top
+"J5","OTG_USB","ONSHORE_USB-A1VSB6",59.0550,-44.0690,180.0000,top
+"J6","Conn_02x05_Odd_Even","PinHeader_2x05_P2.54mm_Vertical",53.9750,-66.1670,90.0000,top
+"SW1","SoC_Boot_SEL_BTN","SW_TH_Tactile_Omron_B3F-10xx",61.7580,-58.2410,90.0000,top
